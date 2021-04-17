@@ -1,0 +1,8 @@
+tensorflow
+flask
+numpy
+Pillow
+flasgger
+gevent
+faskapi
+pydantic
